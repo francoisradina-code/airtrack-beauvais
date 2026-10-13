@@ -1,0 +1,16 @@
+{
+ "date_local": "2026-10-08",
+ "airport": "LFOB",
+ "flights": 94,
+ "flights_with_track": 0,
+ "flights_in_zone": 0,
+ "track_points_in_zone": 0,
+ "track_stats": {
+  "avec_trajectoire": 0,
+  "sans_trajectoire": 30,
+  "non_tentes": 0
+ },
+ "zone": "cercle 25 NM",
+ "plafond_ft": 8500,
+ "collected_at": "2026-10-13T07:50:49.275437Z"
+}
