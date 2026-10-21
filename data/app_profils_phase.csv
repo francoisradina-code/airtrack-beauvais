@@ -1,0 +1,9 @@
+sens,phase,points,alt_med,vitesse_med_kt,vitesse_max_kt
+ARR,approche_intermediaire,1632,3300.0,221.0,255
+ARR,arrivee_descente,2433,7675.0,282.0,296
+ARR,finale_ILS_piste12,1980,1550.0,157.0,199
+ARR,roulage_atterrissage,687,359.0,40.0,145
+DEP,montee_depart,3036,6138.0,275.0,295
+DEP,montee_en_route,608,10950.0,301.0,326
+DEP,montee_initiale,717,1100.0,174.0,197
+DEP,roulage_decollage,570,359.0,80.0,157
